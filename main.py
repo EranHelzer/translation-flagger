@@ -6,6 +6,7 @@ from nltk.tokenize import word_tokenize, sent_tokenize
 from nltk.corpus import stopwords
 
 # Define a list of stopwords to remove from the text
+from arguments import parser
 from stages.ambiguity_check import ambiguity_check
 from stages.spell_check import spell_check
 
@@ -66,4 +67,8 @@ def check_file(file_path: str):
 
 
 if __name__ == '__main__':
+    args = parser.parse_args()
+    files = args.files
+    # for file in files:
+    #     check_file(file)
     check_file("resources/11289.txt")
