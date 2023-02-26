@@ -1,32 +1,44 @@
 import itertools
+import string
 from typing import List, Tuple
-
 import nltk
 from nltk.tokenize import word_tokenize, sent_tokenize
 from nltk.corpus import stopwords
 
 # Define a list of stopwords to remove from the text
+from stages.spell_check import spell_check
+
+# Load the nltk resources
+# nltk.download('stopwords')
+# nltk.download('punkt')
+# nltk.download('averaged_perceptron_tagger')
+# nltk.download('wordnet')
+
+
 stop_words = set(stopwords.words('english'))
+table = str.maketrans('', '', string.punctuation)
 
 
 stages = {
+    "spelling": spell_check
 }
 
 
-def extract_pos_words(sentence: str) -> List[Tuple[str, str]]:
-    words = word_tokenize(sentence)
+def tokenize(sentence: str) -> List[Tuple[str, str]]:
+    tokens = word_tokenize(sentence)
 
     # Remove stopwords from the list of words
-    words = [word for word in words if word.lower() not in stop_words]
+    # tokens = [word.translate(table) for word in tokens if word.isalpha()]
+    tokens = [word for word in tokens if word.lower() not in stop_words]
 
     # Part-of-speech tagging
-    return nltk.pos_tag(words)
+    return nltk.pos_tag(tokens)
 
 
 def check_sentence(sentence: str) -> List[str]:
-    pos_words = extract_pos_words(sentence)
+    pos_tokens = tokenize(sentence)
 
-    issues_per_stage = [stage(sentence, pos_words) for stage in stages.values()]
+    issues_per_stage = [stage(sentence, pos_tokens) for stage in stages.values()]
 
     return list(itertools.chain.from_iterable(issues_per_stage))
 
