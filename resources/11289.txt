@@ -1,0 +1,609 @@
+OffSquare Six Sides
+0
+Horizontal Elements
+Bottom
+Square
+Sliding
+Weather bar
+Glassbeading
+Muntins
+OffSquare Four Sides
+No Gasket Cover
+Transom
+Vertical Elements
+Four-sided sash with insert skirting
+Frame Casement Wing
+Mullion
+Rabbet
+Central insert for coplanar wings
+Four-sided sash
+Frame
+Door Sash
+Sliding Opening
+Door Frame
+Three sided frame with skirting
+All sided
+Segmental Arc
+Rounded Arc
+Plugging
+Four sided frame
+Three sided frame with threshold
+Gasket cover
+Casement Opening
+Crossover for wings overlap
+Rollerblind guide
+T2Wings
+Casement
+Three sided frame
+Central Insert
+Right
+Three-sided sash with skirting
+Top
+Left
+OffSquare Five Sides
+Water cond.
+Serie
+Pc(s)
+Measure Unit
+Customer
+Cutting list
+Profile costs
+Method of price calculation
+(-3%)
+4%
+Tap to select inner finish
+Calculation method
+Discount
+Genre
+Tap to select external finish
+Unit Cost
+New Type
+The text that is written in this space will be printed at the end in the commercial offer.
+End text
+Item Details
+100 90
+Finish
+Image
+Accessories
+Tap to select VAT
+Measure unit
+Subtotal
+One every (mm):
+2500
+code
+Generic Item
+Reference
+Label
+VAT (%)
+Unitary length
+Discounted total
+List
+Plugging costs
+Linear meter
+Expenses
+VAT
+2 80\u{20ac}/Sqm
+Estimate dtails
+Add
+Tap to select system
+L x H
+Acc. System
+45/45
+qty
+Total (VAT included)
+Creation date
+External Finish
+Total discounted document
+Total Price
+Inner Finish
+Quantity
+Width
+High Range
+Qty Ref. Price
+1200 x 1110 mm
+2 10\u{20ac}/lm
+Elaboration date
+Middle Range
+Details
+Items
+Summary
+Glass/panel
+Total document
+#ERROR!
+Code
+Low Range
+|
+Project
+Total length
+13.900.888\u{20ac}
+Creation Date
+Total Discounted
+Adding...
+copy
+3 Day Free Trial
+7 Day Free Trial
+Accessories classes
+Accessories Kit
+Accessory Systems
+Accessory with this code already stored in archive.
+Adding free type
+Adding generic item
+Adding new item to the estimate
+All
+Applied
+Applied profiles
+Brands
+Cancel
+Casement Openings
+Close
+Complete
+Confirm
+copy
+country.Unknown
+Creating archive
+Currencies
+Dats
+Dear
+Discounts
+Do you really want to remove these expenses ?
+Do you really want to remove these items ?
+Do you really want to remove these pluggings ?
+Do you really want to remove this accessory ?
+Do you really want to remove this accessory system ?
+Do you really want to remove this category?
+Do you really want to remove this customer ?
+Do you really want to remove this discount ?
+Do you really want to remove this expense ?
+Do you really want to remove this finish ?
+Do you really want to remove this item ?
+Do you really want to remove this item(s)?
+Do you really want to remove this item?
+Do you really want to remove this plugging ?
+Do you really want to remove this serie ?
+Do you really want to remove this template ?
+Edit serie
+Edit Vat
+Eight
+Email
+Enter a new brand
+Error
+Estimates
+Five
+Four
+Four wings
+Gasket Cover
+Glass
+Impossible to export the list
+Impossible to remove this accessory system.\\nEstimate or types for this system already exists.
+Impossible to remove this brand.\\nAccessories with this brand already exist in archive.
+Impossible to remove this customer category.\\nThere are customers in archive for this category.
+Impossible to remove this finish.\\nEstimate or types with this finish already exists.
+Impossible to remove this finish.\\nPrice per linear meter of the profile for this finish already exists.
+Impossible to remove this serie.\\nEstimate or types for this serie already exists
+Impossible to restore purchases
+Increment height of (mm):
+internal opening sash
+internal opening sashes
+Kit
+lm
+mm
+month
+My Company
+New Vat
+Nine
+No accessories for this category
+No accessories for this profile
+No accessory class in archive
+No accessory for this kit.
+No applied
+No applied profile available for this type
+No applied profiles
+No brand in archive
+No brand in the archive
+No discount for this item\\nTap '+' to insert a new discount.
+No expenses for this item\\nTap '+' to insert a new expense.
+No Internet connection available
+No kit in the archive
+No surface treatments for this accessory
+No use available
+OK
+Ok
+One
+One wings
+Opening
+Openings Kit
+Others
+outer opening sash
+outer opening sashes
+Panel
+Partitioning operation not valid
+Plugging code not assigned!
+Plugging not assigned
+Plugging with this code already stored in archive.
+Predefined
+Price per lm
+Projects
+Proposal
+Remove
+Remove customer category
+Remove discount
+Remove Finish
+Remove Serie
+Remove V.A.T
+Search any project by customer reference code.
+Series
+Set
+Settings
+Seven
+Shape
+Six
+Sliding Openings
+Sliding wings
+Sqm
+Structure
+Support Request
+Tap + to add the price
+Terms of Service
+Three
+Three wings
+To create a new accessory tap '+'\\nat the top of the screen.
+To create a new customer tap '+'\\nat the top of the screen.
+To create a new discount tap '+'\\nat the top of the screen.
+To create a new expense tap '+'\\nat the top of the screen.
+To create a new finish tap 'Edit'\\nat the top of the screen.
+To create a new kit tap '+'\\nat the top of the screen.
+To create a new plugging tap '+'\\nat the top of the screen.
+To create a new project tap '+'\\nat the top of the screen.
+To create a new serie tap '+'\\nat the top of the screen.
+To create a new template tap '+'\\nat the top of the screen.
+To create a new vat tap '+'\\nat the top of the screen.
+To create an accessory system tap 'Edit'\\nat the top of the screen.
+To enter a new item tap '+'\\nat the top of the screen.
+Total (excluding VAT)
+Total discounted
+Treated accessory with this code already stored in archive.
+Two
+Two wings
+Types
+Unable to remove this customer.\\nThere are projects for this customer.
+Unlock Pro Features
+Untitled Item
+Vat
+Warning
+Website
+year
+You are PRO
+Your account has no previous purchases. Make sure you are signed in with the correct App Store account.
+Your subscription automatically renews unless auto-renew is turned off or the subscription is cancelled at least 24 hours before the renewal date. By starting a trial or subscription you accept our Terms and Conditions and Privacy Policy.
+Window Frame Corner Joint
+Door Frame Corner Joint
+Window Sash Corner Joint
+Door Sash Corner Joint
+Adjustment Block Frame
+Cap for Central Fill Profile
+Cap for Central Fill Profile Outside Opening
+Mullion Connector
+Central Gasket Open Joint
+Inside Rabber Gasket
+Gasket Outside Plugging
+Gasket Intside Plugging
+Cap for French Node
+Cap for Node T/Z Outside opening
+Handle
+Brush Seal
+Brush Seal for Rabbet
+Rolling Shutter
+Roller Blind Guide Cap
+Wasistas Ratchet
+Handle for Projecting Opening
+Piece
+Percent
+Square Meter
+All Sides
+Three-Sided
+One Horizontal Side
+One Vertical Side
+pc
+sqm
+Window
+Door
+Shutter
+Vertical slat
+Horizontal slat
+Unknown
+Aluminium
+Aluminium/Wood
+Thermal Cutting
+Mu
+pack
+cp
+bar
+Square meter
+Square foot
+Foot
+Pack
+Couple
+Square meters
+Linear meters
+Square feet
+Feet
+Pieces
+Packs
+Couples
+Bars
+Unspecified
+Metric
+Imperial
+Measurement System
+One Spin Wing
+Tilt & Turn One Wing
+Push One Wing
+Tilt
+Tilt Outside Opening
+Projecting
+Projecting And Pulling
+Two Spin Wings
+Tilt & Turn Two Wings
+Two Push Wings
+Three Spin Wings
+Tilt & Turn Three Wings
+Three Push Wings
+Four Spin Wings
+Four Push Wings
+Sliding Sash
+Range
+One Spin Wing Door
+Tilt & Turn One Wing Door
+Push One Wing Door
+Tilt Window
+Tilt Door
+Tilt Window Outside Opening
+Tilt Door Outside Opening
+Projecting Window
+Projecting Door
+Projecting and Pulling Window
+Projecting and Pulling Door
+Two Spin Wings Door
+Tilt & Turn Two Wings Door
+Two Push Wings Door
+Three Spin Wings Door
+Tilt & Turn Three Wings Door
+Three Push Wings Door
+Four Spin Wings Door
+Four Push Wings Door
+Untitled plugging
+Mounting Accessory
+Gasket
+Overhung Cap
+Corner Joint
+Proposal Details
+Item
+Discounted Unit Cost
+Adapter
+Blind-Cover
+Cmpstion Acc
+Control Rod
+Glass Beading
+Ins Skirting
+Insert
+Rollerblind Guide
+Skirting
+Slat
+Blind Slat
+Sliding Insert
+Sliding Central Insert
+Stiffner
+Sub_Frame
+Threshold
+Water Cond
+Weather Bar
+Wing
+Wooden Frame
+Sliding Frame Horizontal
+Sliding Frame Vertical
+Sliding Sash Horizontal
+Sliding Sash Vertical
+Sliding Sash Central
+Wing Outside Opening
+T2Wings Outside Opening
+Central Insert Outside Opening
+Low skirting
+Door Wing
+Door Wing Outside Opening
+Door T2Wings
+Door T2Wings Outside Opening
+None
+Custom
+Then
+Save changes to type ?
+Discard
+Save
+Out of Range for This Height
+Cost Profiles
+Type
+Generic item
+New item
+Proposal template
+Printing
+Abaco Project
+Minimum Invoicing
+Millimetres
+Inches
+To create a new finish tap '+'\\nat the top of the screen.
+Finish color
+To start...
+Tap on the drawing area and then the brush to insert a structure
+Expand
+To increase the size of the type place two fingers on the screen and slide them apart
+Decrease
+Slide your fingers together to resize the type
+Move
+Hold your two fingers together and move the type. Useful for viewing part of an enlarged type
+Dimensions
+Tap on the double arrow to view the sizes of the type
+Edit size
+Tap on a size in order to change it
+Mullions or transoms
+Tap on the evenly spaced tool to place mullions or transoms an equal distance apart
+Tap on the brush and then choose the shape to change the shape of the type
+Multiple selection
+Tap on various areas of the type to make a multiple selection and insert a structure in just one step
+Tap on the brush and choose the secondary profiles to apply to the type
+Undo
+Cancel the last step carried out on the type
+Out-of-square
+Drag the vertexes to create an out-of-square type
+Category
+Contact
+Accessory description
+high range
+specify placement for finish
+Brand
+Add new brand...
+Packing
+20%
+Transport
+From
+Panels
+Class
+city
+Finishes
+Profit
+From (mm)
+Company params copy
+Province/State
+Bar
+middle range
+Detail
+Layering
+Street
+Edit Plugging
+Tap to select country
+E-mail
+Min. Inv.
+Phone
+Linear Meter Three-Sided
+Support
+V.A.T
+Linear Meter All Sides
+Generic
+NOTE
+Inner
+2 80\u{20ac}/sqm
+predefined
+0
+Tap to select accessory
+Upgrade to Pro
+City
+Accessory
+To (mm)
+Glasses
+PVC
+Discount(%)
+Family
+Cell Phone
+Color
+cost per hour
+Logo
+Descrizione
+Apply To
+overhead single items in (%)
+Overhead curved plugging
+Qty/Formula
+Web
+Formula
+Country
+Add new finish...
+Overhead charges
+Openings
+Use
+Add new accessory system...
+One Vertical Side Linear Meter
+Currency
+Curved
+Title
+Manufacturing scrap
+Qty:
+Labour
+To:
+To
+Tax Code
+Add Photo
+Opening Kit Params
+$0.00
+From:
+Pec
+Prices
+Name
+parameters in (%)
+personal information
+Preview
+New Serie
+low range
+Privacy policy
+Version
+Descrizione apertura
+External
+Treated acc. code
+Value
+contact information
+Subtitle
+identification
+Plugging details
+Battente/Scorrevole
+$0 00
+$0 456
+Value (%)
+Fax
+P.O. Box
+Privacy Policy
+Extra charges
+Price per
+Tap to select method
+Broker
+$90.00
+Tap to select
+Customers
+Customer Detail
+One Horizontal Side Linear Meter
+Print in quotation
+Edit table
+Opening Kits
+Table
+Tap to select accessory type
+Measure unit of class
+Import
+$9 90
+email
+Aluminum/PVC
+Aluminum
+Minimum invoicing
+Serie name
+Edit Company
+Template
+calculation method
+2 80\u{20ac}
+Tap to enter table details
+Add new kit...
+applied profiles
+2.67\u{20ac}
+Proposal Template
+Categoria
+Side
+Window Frame Corner Joint:
+Shaped
+Tap to select family
+Export
+iCloud Sync
+Unlimited Accessory Systems
+Subscription
+Unlimited Projects
+Loading...
+Unlimited Finishes
+Restore Purchase
+Unlimited Series
+Fenestra+ is the fast and always at hand solution for designing any type or shape of windows. The compilation of a simple and appropriate database provides a versatile and powerful tool that is readily available. It takes just a few steps to get an estimate of the projects and obtain clear documents in PDF format.\r\n\r\nBASIC SETTINGS\r\n- Series of profiles for doors and windows in particular Aluminium PVC.\r\n- Specification of surface finishes and definition of the price per linear meter for finishes and use of profile. \r\n- Accessories compiled in kits for various types of openings (swinging and sliding) available.\r\n- The prices of the accessory kits can be established per set.\r\n- Price per linear meter of metal reinforcements according to the primary PVC profile.\r\n- Specification of accessory costs and choice of their method of calculation.\r\n- Ability to import customers from the device\u{2019}s address book.\r\n- Ability to upload the company logo from the device's photos storage.\r\n\r\nPROJECTS\r\n- Powerful and versatile graphic editor for designing rectangular out of square and arched typologies.\r\n- Design of swinging and sliding types of openings.\r\n- Automatic assigning of metal reinforcements for PVC series.\r\n- Automatic calculation of the accessories linked to the profile (i.e. corner joint caps etc.) and assigned to the type.\r\n- Tallying of panels and/or glass per square meter along with the calculation of the minimum billing.\r\n- Modification of project types by replacing accessories plugging and including accessory costs with a simple and intuitive user interface.\r\n- Commercial offer to the customer in PDF format.\r\n- Inclusion of customized final text in the commercial offer to the customer.\r\n\r\nICLOUD SYNCHRONIZATION\r\n- Data synchronization between devices.\r\n\r\nTERMS AND PRIVACY\r\nTerms of use: https://www.iubenda.com/terms-and-conditions/21166399\r\nPrivacy policy: https://www.iubenda.com/privacy-policy/21166399\r\n\r\nShould you have any questions or concerns please send an e-mail to: support@fenestrapp.com.\r\n\r\nIf you like Fenestra+ write a review!\r\n\r\n--------------------------------------------------------------------------------------------------------\r\n\r\nwindow design woodwork cut list infix sliding panel glass veranda section door quotation frame dxf
+Fenestra+ for PVC & Aluminium
+The Quote at hand
+Fenestra+ Pro Monthly
+Fenestra+ Pro Yearly
