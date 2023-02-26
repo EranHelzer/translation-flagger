@@ -6,6 +6,7 @@ from nltk.tokenize import word_tokenize, sent_tokenize
 from nltk.corpus import stopwords
 
 # Define a list of stopwords to remove from the text
+from stages.ambiguity_check import ambiguity_check
 from stages.spell_check import spell_check
 
 # Load the nltk resources
@@ -20,7 +21,8 @@ table = str.maketrans('', '', string.punctuation)
 
 
 stages = {
-    "spelling": spell_check
+    "spelling": spell_check,
+    "ambiguity": ambiguity_check
 }
 
 
