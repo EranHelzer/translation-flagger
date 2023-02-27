@@ -20,7 +20,6 @@ from stages.spell_check import spell_check
 stop_words = set(stopwords.words('english'))
 table = str.maketrans('', '', string.punctuation)
 
-
 stages = {
     "spelling": spell_check,
     "ambiguity": ambiguity_check
@@ -38,29 +37,40 @@ def tokenize(sentence: str) -> List[Tuple[str, str]]:
     return nltk.pos_tag(tokens)
 
 
-def check_sentence(sentence: str) -> List[str]:
+def check_sentence(sentence: str, stages_to_skip: List[str], stages_to_execute: List[str]) -> List[str]:
     pos_tokens = tokenize(sentence)
 
-    issues_per_stage = [stage(sentence, pos_tokens) for stage in stages.values()]
+    issues_per_stage = [stage(sentence, pos_tokens) for stage in get_stages_to_execute(stages_to_skip, stages_to_execute).values()]
 
     return list(itertools.chain.from_iterable(issues_per_stage))
 
 
-def check_line(line: str):
+def get_stages_to_execute(stages_to_skip: List[str], stages_to_execute: List[str]):
+    return dict([stage for stage in stages.items() if execute_stage(stage[0], stages_to_skip, stages_to_execute)])
+
+
+def execute_stage(stage: str, stages_to_skip: List[str], stages_to_execute: List[str])
+    return stage not in stages_to_skip and (len(stages_to_execute) == 0 or stage in stages_to_execute)
+
+
+def check_line(line: str, stages_to_skip: List[str], stages_to_execute: List[str]):
     # Remove leading and trailing white space
     line = line.strip()
     # Tokenize the line into sentences
     sentences = sent_tokenize(line)
 
-    issues_per_sentence = [check_sentence(sentence) for sentence in sentences]
+    issues_per_sentence = [check_sentence(sentence, stages_to_skip, stages_to_execute) for sentence in sentences]
 
     return list(itertools.chain.from_iterable(issues_per_sentence))
 
 
-def check_file(file_path: str):
+def check_file(file_path: str, stages_to_skip=None, stages_to_execute=None):
+    stages_to_skip = stages_to_skip or []
+    stages_to_execute = stages_to_execute or []
+
     with open(file_path, 'r') as file:
         for line in file:
-            problems = check_line(line)
+            problems = check_line(line, stages_to_skip, stages_to_execute)
 
             if len(problems) > 0:
                 print(f'Line: {line}\nProblems: {problems}\n\n')
@@ -70,5 +80,5 @@ if __name__ == '__main__':
     args = parser.parse_args()
     files = args.files
     # for file in files:
-    #     check_file(file)
+    #     check_file(file, args.skip, args.exec)
     check_file("resources/11289.txt")
